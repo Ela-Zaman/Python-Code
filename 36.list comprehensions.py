@@ -12,3 +12,4 @@ print(numbers)
 print("Minimum:",min(numbers))
 print("Maximum:",max(numbers))
 print("Summation:",sum(numbers))
+
