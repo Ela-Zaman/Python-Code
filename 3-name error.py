@@ -1,2 +1,2 @@
 message="Hello python readers"
-print(mesage)
+print(message)

@@ -27,3 +27,7 @@ if "salami"  not in requested_toppings:
     print("Wow, ovro hates you")
 else:
     print("I don't care")
+#boolean expressions
+
+game_active = True
+game_deactive = False

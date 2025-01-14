@@ -1,3 +1,5 @@
+#python can only write strings to file
+
 from pathlib import Path
 
 path = Path("programming.txt")

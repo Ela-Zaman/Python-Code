@@ -13,4 +13,3 @@ else :
     path.write_text(contents)
     print(f"We'll remember you when you come back, {username} ! ")
 
-    

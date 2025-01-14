@@ -13,7 +13,8 @@ describe_pet(animal_type="cat", pet_name="tommy")
 describe_pet(pet_name="jerry", animal_type="mouse")
 
 #default value
-
+#if you want to set default value of the function parameter , that parameter
+#should be last ones.
 def describe_pet(animal_type, pet_name = "jerry"):
 
     {

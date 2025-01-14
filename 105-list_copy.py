@@ -31,3 +31,4 @@ list2=send_messages(messages_2)
 
 print("Original list",list1,"\n")
 print("Empty list",list2,"\n")
+print

@@ -57,7 +57,7 @@ class Battery:
         elif self.battery_size == 65:
             range = 225
         
-        print(f"This car can about {range} miles on a full charge")
+        print(f"This car can go about {range} miles on a full charge")
 
 my_leaf = ElectricCar('nissan', 'leaf', 2024)
 print(my_leaf.get_descriptive_name())
@@ -67,8 +67,6 @@ my_leaf.fill_gas_tank()
 my_leaf.battery.describe_battery()
 
 my_leaf.battery.get_range()
-
-
 
 
 

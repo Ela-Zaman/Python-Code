@@ -25,3 +25,4 @@ for language in favourite_languages.values():
 print("We have following languages in our list: ")
 for language in set(favourite_languages.values()):
     print(f"{language.title()}")
+

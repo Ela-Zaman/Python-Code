@@ -18,3 +18,4 @@ for username,userinfo in users.items():
 
     print(f"\t Full name: {fullname.title()}")
     print(f"\t Location: {location.title()}")
+

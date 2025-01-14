@@ -11,6 +11,7 @@ print(f"Your Price is: {price}")
 
 name="ela"
 
+#The if elif statements do not necessarily add else block
 if name == "razia":
     print(name)
 elif name == "ela":

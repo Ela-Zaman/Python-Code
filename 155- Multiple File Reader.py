@@ -36,3 +36,4 @@ filenames = ['alice.txt','moby_dick.txt','guest_book.txt','learning_python.txt']
 
 for file in filenames:
     count_words_2(file)
+

@@ -7,3 +7,4 @@ for item in range(4):
     lottery+=str(choice(new_list))
 
 print(f"Any tickets matching this values {lottery} wins a price")
+
